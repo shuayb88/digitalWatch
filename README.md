@@ -3,6 +3,7 @@ Digital Multimode Watch | Verilog & FPGA
 A hardware-based multimode system designed for the DE10-Lite FPGA (Intel/Altera). This project implements a central control system that manages a real-time clock, alarm, stopwatch, and countdown timer using a Finite State Machine (FSM).
 
 
+
 System Architecture
 
 This project is built using a modular "Top-Down" hierarchy to ensure reliability and clean signal processing:
